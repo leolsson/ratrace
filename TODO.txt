@@ -1,0 +1,1 @@
+1.  Detect when pacman is outside the course, i.e. on the green grass.
