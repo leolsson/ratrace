@@ -1,3 +1,4 @@
+- add rat lap counter
 - Detect when pacman is outside the course, i.e. on the green grass.
 - Change the pacmen sprite to a cat
 - Add the rats
